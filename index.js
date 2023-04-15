@@ -44,7 +44,7 @@ function cTd(tag,attr,attrval,content){
 var table = cTable("table","class","table","style","width:50%;border:1px solid black;")
 var head = cThead("thead")
 var trHead = cTr("tr","style")
-var header = ['First','Last','Middle'] ;
+var header = ['First','Last','Handle'] ;
 var data = ['Mark','Otto',"@mdo"]
 var tbody = cTbody("tbody")
 var trbody = trBody("tr");
